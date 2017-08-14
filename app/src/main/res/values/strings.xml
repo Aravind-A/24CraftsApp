@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">24Crafts</string>
+    <string name="date_selected"/>
+
+    <string-array name="who">
+        <item>Who </item>
+        <item>"Director"</item>
+        <item>"producer"</item>
+        <item>"Actor"</item>
+        <item>"Actress"</item>
+    </string-array>
+</resources>
