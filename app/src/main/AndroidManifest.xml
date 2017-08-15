@@ -9,24 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".login.Login2"
+        <activity android:name=".Login2"
             android:windowSoftInputMode="adjustPan">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".login.Login"
+        <activity android:name=".Login"
             android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".signup.SignupPage1"
+        <activity android:name=".signup"
             android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".signup.SignupPage2"
+        <activity android:name=".signup2"
             android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".signup.SignupPage3"
+        <activity android:name=".signup3"
             android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".signup.SignupPage4"
+        <activity android:name=".signup4"
             android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".verification.Verification"
+        <activity android:name=".Verification"
             android:windowSoftInputMode="adjustPan"/>
     </application>
 
